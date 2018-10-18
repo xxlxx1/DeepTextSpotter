@@ -1,3 +1,6 @@
+xxl modified: dataset_conversions, prepare data for retraining
+@linchenguang det_train.py ctc_train.py run*.sh
+
 # DeepTextSpotter
 
 ### DeepTextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework
