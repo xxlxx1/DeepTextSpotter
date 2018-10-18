@@ -1,6 +1,7 @@
 xxl modified: dataset_conversions/convert_author.py, prepare data for retraining
+demo_pic.py for picture test
 
-@linchenguang det_train.py ctc_train.py run*.sh
+@linchenguang provide det_train.py ctc_train.py run*.sh
 
 add some Chinese annotations
 
